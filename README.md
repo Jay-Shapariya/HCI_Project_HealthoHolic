@@ -46,3 +46,7 @@ brief information, according to the choice of the equipment done by the user.
 ## Demonstration link
 
 <https://drive.google.com/file/d/1GBFJBevrFkjtBX72FMtEZNCbOh8K-eph/view?usp=sharing>
+
+## Flutter app
+
+https://github.com/Jay-Shapariya/healthoholic-flutter-app
